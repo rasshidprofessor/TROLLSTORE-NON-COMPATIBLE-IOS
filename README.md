@@ -31,7 +31,7 @@ util para versoes nao suportadas * (principalmente pro ios 16)
 
 # como fazer em breve
 
-# não o criei, apenas descobri que funcionava por acaso. Vou deixar os creditos a equipe do palera1n e ao gms fix de onde eu tirei os aquivos necessarios.
+# não o criei, apenas descobri que funcionava por acaso. Vou deixar os creditos a equipe do trollstrore e ao opa334 , equipe do palera1n e ao gms fix de onde eu tirei os aquivos necessarios.
 * não tenho muito conhecimento em coding no ios;
 * faça por sua conta e risco;
 * não é necessario o jailbreak.
