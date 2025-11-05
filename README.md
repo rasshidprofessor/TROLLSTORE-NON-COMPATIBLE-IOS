@@ -1,6 +1,6 @@
 # TROLLSTORE-NON-COMPATIBLE-IOS
 trollstore para ios incompativel (do 15 ao 17) need usb boot
-
+<img width="300" height="300" alt="troll_with_text" src="https://github.com/user-attachments/assets/9a040607-f277-4a52-a1c6-583fc9700d41" />
 # SEM NECESSIDADE DE JAILBREAK
 # NECESSARIO USB BOOTAVEL + PC COM SECURE BOOT OFF * USE O RUFUS PRA MELHOR EXPERIENCIA 
 
@@ -18,3 +18,4 @@ util para versoes nao suportadas * (principalmente pro ios 16)
 # IPHONE 8 IOS 16.7.12
 
 <img width="1507" height="788" alt="Captura de tela 2025-11-05 120241" src="https://github.com/user-attachments/assets/c365464c-85ad-466e-8c61-407535906c0d" />
+
