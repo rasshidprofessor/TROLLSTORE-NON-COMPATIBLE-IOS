@@ -20,3 +20,6 @@ util para versoes nao suportadas * (principalmente pro ios 16)
 
 ![853528f1-0fb4-4102-b5d2-7bca40cae4b3](https://github.com/user-attachments/assets/a747638e-b90b-49a4-b562-e9a9f2792650)
 
+# como fazer em breve
+# criditos 
+@ni
