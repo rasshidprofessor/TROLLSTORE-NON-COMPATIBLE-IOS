@@ -41,12 +41,13 @@ util para versoes nao suportadas * (principalmente pro ios 16)
 
 * ARQUIVO DE INICIALIZAÇÃO
 (O WINDOWNS PODE IDENTIFICALO COMO MALWARE DESATIVE O WINDOWNS DEFENDER DURANTE A CRIAÇÃO DO PENDRIVE BOOT)
+
   % RETIRADO DIRETAMENTE DE(https://ictfix.net/uncategorized/iphone-8-8-plus-x-jailbreak-ios-16-7-12-with-palehide-roothide-full-guide/)
   
 https://mega.nz/file/BuY1VJLR#BJhKDRB13df5y0bSASVSuuR4dsG6qkNMPAoVKLma4P8
 
 * VENTOY
-(BAIXE O ARQUIVO COMPATIVEL COM SUA MAQUINA E FAÇA A INATALAÇÃO DO VENTOI NO PENDRIVE DESEJADO * MAIS COMUM WINDOWNS)
+(BAIXE O ARQUIVO COMPATIVEL COM SUA MAQUINA E FAÇA A INSTALAÇÃO DO VENTOI NO PENDRIVE DESEJADO * MAIS COMUM WINDOWNS)
 
 https://sourceforge.net/projects/ventoy/files/v1.1.07/
 
@@ -73,5 +74,6 @@ https://sourceforge.net/projects/ventoy/files/v1.1.07/
 ![wvaqcskk29xx](https://github.com/user-attachments/assets/5b86e48e-29ad-4151-8791-8a4e84900baa)
 
 desative o secure boot e inicie no pendrive 
+
 continua ....
 
