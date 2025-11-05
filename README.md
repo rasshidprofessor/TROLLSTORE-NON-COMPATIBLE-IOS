@@ -17,5 +17,6 @@ util para versoes nao suportadas * (principalmente pro ios 16)
 #trollstore install ios 16.7.12
 # IPHONE 8 IOS 16.7.12
 
-<img width="1507" height="788" alt="Captura de tela 2025-11-05 120241" src="https://github.com/user-attachments/assets/c365464c-85ad-466e-8c61-407535906c0d" />
+
+![853528f1-0fb4-4102-b5d2-7bca40cae4b3](https://github.com/user-attachments/assets/a747638e-b90b-49a4-b562-e9a9f2792650)
 
