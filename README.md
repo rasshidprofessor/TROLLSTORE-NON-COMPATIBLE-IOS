@@ -46,7 +46,7 @@ util para versoes nao suportadas * (principalmente pro ios 16)
 * ARQUIVO DE INICIALIZAÇÃO
 (O WINDOWNS PODE IDENTIFICALO COMO MALWARE DESATIVE O WINDOWNS DEFENDER DURANTE A CRIAÇÃO DO PENDRIVE BOOT)
 
-  % RETIRADO DIRETAMENTE DE(https://ictfix.net/uncategorized/iphone-8-8-plus-x-jailbreak-ios-16-7-12-with-palehide-roothide-full-guide/)
+  % RETIRADO DIRETAMENTE DE: (https://ictfix.net/uncategorized/iphone-8-8-plus-x-jailbreak-ios-16-7-12-with-palehide-roothide-full-guide/)
   
 https://mega.nz/file/BuY1VJLR#BJhKDRB13df5y0bSASVSuuR4dsG6qkNMPAoVKLma4P8
 
