@@ -37,8 +37,12 @@ util para versoes nao suportadas * (principalmente pro ios 16)
 * não é necessario o jailbreak.
 # TUTORIAL
 
-.ARQUIVOS NECESSARIOS 
-
+# ATENÇÃO !!!!!!!!!!
+* DESATIVE O BUSCAR MEU IPHONE
+* SE POSSIVEL REMOVA A SENHA DO DISPOSITIVO
+  
+# ARQUIVOS NECESSARIOS 
+# PART 1
 * ARQUIVO DE INICIALIZAÇÃO
 (O WINDOWNS PODE IDENTIFICALO COMO MALWARE DESATIVE O WINDOWNS DEFENDER DURANTE A CRIAÇÃO DO PENDRIVE BOOT)
 
@@ -52,28 +56,55 @@ https://mega.nz/file/BuY1VJLR#BJhKDRB13df5y0bSASVSuuR4dsG6qkNMPAoVKLma4P8
 https://sourceforge.net/projects/ventoy/files/v1.1.07/
 
 
-# INSTALAÇÃO 
-* EXTRAIA OS ARQUIVOS BAIXADOS
+# PART 2 : INSTALAÇÃO 
+* EXTRAIA OS ARQUIVOS BAIXADOS:
 <img width="1920" height="1080" alt="EXTRAIA OS ARQUIVOS BAIXADOS" src="https://github.com/user-attachments/assets/fd2cc1d2-6177-4b68-9453-7a51b4ce7cb7" />
 
-* EXECUTE O VENTOY 
+* EXECUTE O VENTOY :
 <img width="1920" height="1080" alt="EXECUTE O VENTOY2DISK NO DIRETORIO" src="https://github.com/user-attachments/assets/795032e1-3d42-4f0c-970d-9c1337aa926b" />
 
-* INSTALE O VENTOY NO SEU PENDRIVE
+* INSTALE O VENTOY NO SEU PENDRIVE:
 <img width="1920" height="1080" alt="CLICK EM INSTALL E SIGA OS PA" src="https://github.com/user-attachments/assets/39efa25c-4006-45b2-803f-764e2becdebb" />
 
-* DEVE APARECER ESSE DIRETORIO
+* DEVE APARECER ESSE DIRETORIO:
 <img width="1920" height="1080" alt="DEVE APARECER ESSE DIRETORIO NO LUGAR DO PENDRIVE" src="https://github.com/user-attachments/assets/10699ee6-7e51-4630-a1fc-e96df01700f5" />
 
-*COPIE A PASTA PALEHIDE PARA O VENTOY 
+*COPIE A PASTA PALEHIDE PARA O VENTOY :
 <img width="1920" height="1080" alt="SEGURE E LEVE A PASTA PALERIDE PARA O PENDRIVE VENTOY" src="https://github.com/user-attachments/assets/7026b006-5a34-405f-93f5-63cd0484467d" />
 
-# AGORA É NECESSARIO DESLIGAR O COMPUTADOR E INICIAR NA BIOS 
+# PART 3 : AGORA É NECESSARIO DESLIGAR O COMPUTADOR E INICIAR NA BIOS :
 *tabela de bios pra algumas placas 
 
 ![wvaqcskk29xx](https://github.com/user-attachments/assets/5b86e48e-29ad-4151-8791-8a4e84900baa)
 
-desative o secure boot e inicie no pendrive 
+desative o secure boot e inicie PELO  pendrive BOOT ( GERALMENTE TEM ´´UEFI ´´ NO NOME )
 
-continua ....
+# NESSA TELA CLICK DUAS VEZES EM ENTER:
+<img width="1007" height="747" alt="NESSA TELA CLICK EM ENTER DUAS VEZES" src="https://github.com/user-attachments/assets/a2b41884-4c76-4c2b-abbf-670170292533" />
 
+# CLICK ENTER NOVAMENTE NESSA TELA :
+<img width="1007" height="748" alt="CLICK EM ENTER NOVAMENTE NESSA TELA" src="https://github.com/user-attachments/assets/b8693b7b-9422-4b10-a2fb-755e943735fb" />
+
+# USANDO AS SETAS NAVEGUE ATE (Switch) e click enter :
+<img width="1011" height="736" alt="USANDO AS SETAS NAVEGU" src="https://github.com/user-attachments/assets/87f7cd6f-a877-40dd-96a4-fc16f3814539" />
+
+# CLICK ENTER 
+<img width="1009" height="756" alt="CLICK ENTER" src="https://github.com/user-attachments/assets/80a98ab6-e888-4555-87af-871e8f4432b8" />
+
+# CONECTE O DISPOSITIVO AO COMPUTADOR , CLICK EM CONFIAR NESTE COMPUTADOR (NO IPHONE) E REMOVA O CABO !!! . E CLICK EM ENTER .
+<img width="1011" height="736" alt="CONECTE O DISPOSITIVO AO PC E CLICK EM CONFIAR NESTE COMPUTADOR NO IPHONE E REMOVA DO CABO" src="https://github.com/user-attachments/assets/40947f08-4d32-4153-9e14-6aff8a12f0b3" />
+
+# ESTA PARTE É DE EXTREMA IMPORTANCIA PARA O ANDAMENTO DO PROCESSO 
+: SE VOCE JA FEZ JAILBREAK COM PALERA1N SERA FACIL PRA VOCE 
+*1 CONECTE O CELULAR AO COMPUTADOR ( ELE INICIARA NO MODO RECOVERY) 
+
+![ios13-iphone-xs-restore-iphone](https://github.com/user-attachments/assets/9dc67d67-239a-446a-8e25-895ed4deae8c)
+
+*2 QUANDO APARECER ESTA TELA , CLICK EM ENTER E RAPIDAMENTE SEGURE O BOTÃO POWER COM O DE VOLUMEM - DURANTE 4 SEGUNDOS , LOGO APOS OS 4 SEGUNDOS SOLTE O BOTÃO POWER E   SEGURE O BOTÃO VOLUME - POR 10 SEGUNDOS 
+(PROCURE TUTORIAIS DE JAILBREAK PRA COPIAR APENAS A PARTE DOS BOTOES , ERRAR ESSA PARTE PODE DANIFICAR SEU DISPOSITIVO )
+
+# O DISPOSITIVO IRA INICIAR , CLICK EM OK E USE O TROLLSTORE PARA O QUE QUISER 
+
+# SE REINICIAR O DISPOSITIVO  NEM O TROLLSTORE NEM OS APPS INSTALADOS POR ELE VAO  FUNCIONAR , PARA FAZER VOLTAR A FUNCIONAR FAÇA A PARTE
+
+TUTORIAL BY RASSHID PROFESSOR
