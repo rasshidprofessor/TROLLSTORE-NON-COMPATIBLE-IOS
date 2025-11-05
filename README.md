@@ -4,7 +4,7 @@ trollstore para ios incompativel (do 15 ao 17) * need usb boot
 <img width="300" height="300" alt="troll_with_text" src="https://github.com/user-attachments/assets/9a040607-f277-4a52-a1c6-583fc9700d41" /> 
 
 # SEM NECESSIDADE DE JAILBREAK
-# NECESSARIO USB BOOTAVEL + PC COM SECURE BOOT OFF * USE O RUFUS PRA MELHOR EXPERIENCIA 
+# NECESSARIO USB BOOTAVEL + PC COM SECURE BOOT OFF * USE O VENTOY PRA MELHOR EXPERIENCIA 
 
 chipset A9 ao A11
 
@@ -35,3 +35,21 @@ util para versoes nao suportadas * (principalmente pro ios 16)
 * não tenho muito conhecimento em coding no ios;
 * faça por sua conta e risco;
 * não é necessario o jailbreak.
+# TUTORIAL
+
+.ARQUIVOS NECESSARIOS 
+
+* ARQUIVO DE INICIALIZAÇÃO
+(O WINDOWNS PODE IDENTIFICALO COMO MALWARE DESATIVE O WINDOWNS DEFENDER DURANTE A CRIAÇÃO DO PENDRIVE BOOT)
+  % RETIRADO DIRETAMENTE DE(https://ictfix.net/uncategorized/iphone-8-8-plus-x-jailbreak-ios-16-7-12-with-palehide-roothide-full-guide/)
+  
+https://mega.nz/file/BuY1VJLR#BJhKDRB13df5y0bSASVSuuR4dsG6qkNMPAoVKLma4P8
+
+* VENTOY
+(BAIXE O ARQUIVO COMPATIVEL COM SUA MAQUINA E FAÇA A INATALAÇÃO DO VENTOI NO PENDRIVE DESEJADO * MAIS COMUM WINDOWNS)
+
+https://sourceforge.net/projects/ventoy/files/v1.1.07/
+
+
+
+  
